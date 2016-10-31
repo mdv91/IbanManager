@@ -1,2 +1,4 @@
-# BICForm
-BICForm is a light platform to allow associations to manage their Bank Identification Code Forms
+IbanManagerBundle
+=======
+
+This is a Symfony3 Bundle to help you manage your user's IBAN.
