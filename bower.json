@@ -1,0 +1,21 @@
+{
+  "name": "IbanManagerBundle",
+  "homepage": "https://github.com/mdv91/IbanManager",
+  "authors": [
+    "Ben Younes Ousama <benyounes.ousama@gmail.com>"
+  ],
+  "description": "This is a Symfony3 Project to help you manage your user's IBAN.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,4 +1,4 @@
-IbanManagerBundle
+IbanManager
 =======
 
-This is a Symfony3 Bundle to help you manage your user's IBAN.
+IbanManager is a Symfony3 project that helps you manage your user's IBAN.
